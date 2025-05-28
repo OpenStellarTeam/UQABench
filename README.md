@@ -2,8 +2,11 @@
 Title: UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering [**KDD'25 Accepted (Oral) Paper**]
 ![Authors](pic/author_list.png)
 The paper link: [UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering](https://arxiv.org/abs/2502.19178).
+The data source available: [Kaggle](https://www.kaggle.com/datasets/liulangmingliu/uqabench)
+
 ## Overview
 ![Overview](pic/UQABench_overview.png)
+
 ## Description
 The UQABench is a benchmark dataset for evaluating user embeddings in prompting LLMs for personalized question answering. The standardized evaluation process includes **pre-training**, **fine-tuning**, and **evaluating** stages. We provide the requirements and quick-start scripts for each stage.
 
