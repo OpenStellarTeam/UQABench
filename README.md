@@ -1,5 +1,5 @@
-# UQABench
-Title: UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering [**KDD'25 Accepted (Oral) Paper**]
+# [KDD'25] UQABench
+Title: UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering [**KDD 2025 Accepted (Oral) Paper**]
 
 ![Authors](pic/author_list.png)
 
