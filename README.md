@@ -9,7 +9,6 @@ The source data: [Kaggle](https://www.kaggle.com/datasets/liulangmingliu/uqabenc
 
 ## Overview
 ![Overview](pic/UQABench_overview.png)
-
 ## Description
 The UQABench is a benchmark dataset for evaluating user embeddings in prompting LLMs for personalized question answering. The standardized evaluation process includes **pre-training**, **fine-tuning**, and **evaluating** stages. We provide the requirements and quick-start scripts for each stage.
 
